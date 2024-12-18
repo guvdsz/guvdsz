@@ -4,7 +4,7 @@
 
 **`Front-End Developer`**
 
-My name is Gustavo Viana de Souza, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, C# and JavaScript. Currently, I’m deepening my knowledge in React.JS.
+My name is Gustavo Viana de Souza, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, and JavaScript. Currently, I’m deepening my knowledge in React.JS and C# with .NET.
 
 As a course representative, I help peers with academic and technical challenges. Always open to learning and connecting with others—feel free to reach out via LinkedIn or email at gustavovianadesouzacontatos@gmail.com.
 
