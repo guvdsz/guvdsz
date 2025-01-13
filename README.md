@@ -10,69 +10,21 @@ As a course representative, I help peers with academic and technical challenges.
 
 ---
 
-### 🤖 Languages and Technologies
+## Skills
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?&logo=tailwindcss)](#)
+[![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)](#)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=fff)
+
+
 
 <br/>
 <br/>
 
-### 📊 Statistics
+## Statistics
 <p>
   <img 
     align="left" 
