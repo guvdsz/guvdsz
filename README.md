@@ -20,7 +20,14 @@ As a course representative, I help peers with academic and technical challenges.
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=fff)
 
 
+<br/>
+<br/>
 
+## Contact
+
+[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/guvdsz")]("www.linkedin.com/in/guvdsz")
+[![Gmail Badge](https://img.shields.io/badge/-gustavovianadesouzacontatos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"gustavovianadesouzacontatos@gmail.com")]("gustavovianadesouzacontatos@gmail.com")
+[![GitHub](https://img.shields.io/github/followers/guvdsz?label=follow&style=social)]("https://github.com/guvdsz")
 <br/>
 <br/>
 
@@ -41,6 +48,7 @@ As a course representative, I help peers with academic and technical challenges.
   />
 
 </p>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
