@@ -11,13 +11,13 @@ technical challenges in projects, including error analysis and correction.
 
 ## Skills
 
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=fff)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?&logo=tailwindcss)](#)
-[![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)](#)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 
 
 <br/>
