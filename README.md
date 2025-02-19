@@ -4,15 +4,15 @@
 
 **`Front-End Developer`**
 
-My name is Gustavo Viana de Souza, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, and JavaScript. Currently, I’m deepening my knowledge in React.JS.
-
-As a course representative, I help peers with academic and technical challenges. Always open to learning and connecting with others—feel free to reach out via LinkedIn or email at gustavovianadesouzacontatos@gmail.com.
+Student of Systems Analysis and Development at PUC Minas, I started my journey in programming in April 2024 and have since been dedicated to building a solid foundation in web development. Currently, I am deepening my knowledge in React.JS, React Native, and TypeScript. As a semester representative in my program, I take pride in serving as a support point for my classmates, assisting them with questions about subjects, academic activities, and
+technical challenges in projects, including error analysis and correction.
 
 ---
 
 ## Skills
 
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?&logo=tailwindcss)](#)
 [![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)](#)
