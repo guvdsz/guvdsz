@@ -42,6 +42,8 @@ technical challenges in projects, including error analysis and correction.
     style="margin=16px 0px"
   />
 <div/>
+  <br/>
+<br/>
   <div>
 
 <img 
