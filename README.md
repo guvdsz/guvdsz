@@ -33,7 +33,7 @@ technical challenges in projects, including error analysis and correction.
 <br/>
 
 ## Statistics
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -41,6 +41,9 @@ technical challenges in projects, including error analysis and correction.
     src="https://github-readme-stats.vercel.app/api?username=guvdsz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000"          alt="Gustavo Viana de Souza github stats"
     style="margin=16px 0px"
   />
+<div/>
+  <div>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -48,7 +51,7 @@ technical challenges in projects, including error analysis and correction.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvdsz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000"
   />
 
-</p>
+<div/>
 
 
 
