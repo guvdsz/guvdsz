@@ -4,8 +4,7 @@
 
 **`Front-End Developer`**
 
-Student of Systems Analysis and Development at PUC Minas, I started my journey in programming in April 2024 and have since been dedicated to building a solid foundation in web development. Currently, I am deepening my knowledge in React.JS, React Native, and TypeScript. As a semester representative in my program, I take pride in serving as a support point for my classmates, assisting them with questions about subjects, academic activities, and
-technical challenges in projects, including error analysis and correction.
+Front-end developer passionate about technology, continuous learning, and creating impactful digital solutions. I have practical experience in web and mobile development, team collaboration, and academic leadership. Communicative, adaptable, and always willing to share knowledge, I act as a mentor to peers in programming and project development. I consistently strive for innovation, efficiency, and usability in my work.
 
 ---
 
