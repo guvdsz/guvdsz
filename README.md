@@ -2,13 +2,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Viana+de+Souza!;I'm+graduating+in+analysis+and+systems+development+at+PUC+Minas;Be+Welcome!)](https://git.io/typing-svg) 
 
-**`Front-End Developer`**
+**`Desenvolvedor Front-End`**
 
-Front-end developer passionate about technology, continuous learning, and creating impactful digital solutions. I have practical experience in web and mobile development, team collaboration, and academic leadership. Communicative, adaptable, and always willing to share knowledge, I act as a mentor to peers in programming and project development. I consistently strive for innovation, efficiency, and usability in my work.
+Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado contínuo e criação de soluções digitais impactantes. Possuo experiência prática em desenvolvimento web e mobile, colaboração em equipe e liderança acadêmica. Comunicativo, adaptável e sempre disposto a compartilhar conhecimento, atuo como mentor para colegas em programação e desenvolvimento de projetos. Busco sempre inovação, eficiência e usabilidade em meus trabalhos e projetos pessoais.
 
 ---
 
-## Skills
+## Habilidades
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=fff)
@@ -23,7 +23,7 @@ Front-end developer passionate about technology, continuous learning, and creati
 <br/>
 <br/>
 
-## Contact
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/guvdsz")]("www.linkedin.com/in/guvdsz")
 [![Gmail Badge](https://img.shields.io/badge/-gustavovianadesouzacontatos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"gustavovianadesouzacontatos@gmail.com")]("gustavovianadesouzacontatos@gmail.com")
@@ -31,7 +31,7 @@ Front-end developer passionate about technology, continuous learning, and creati
 <br/>
 <br/>
 
-## Statistics
+## Estatísticas
 <img 
       align="left" 
       alt="GitHub Stats" 
