@@ -31,16 +31,5 @@ Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado contínuo 
 <br/>
 <br/>
 
-## Estatísticas
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvdsz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000"
-  />
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
 
