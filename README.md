@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo!;Estou+cursando+análise+e+desenvolvimento+de+sistemas+na+PUC+Minas;Seja+Bem-vindo!)](https://git.io/typing-svg) 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado contínuo e criação de soluções digitais impactantes. Possuo experiência prática em desenvolvimento web e mobile, colaboração em equipe e liderança acadêmica. Comunicativo, adaptável e sempre disposto a compartilhar conhecimento, atuo como mentor para colegas em programação e desenvolvimento de projetos. Busco sempre inovação, eficiência e usabilidade em meus trabalhos e projetos pessoais.
 
