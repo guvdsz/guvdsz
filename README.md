@@ -2,34 +2,42 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo!;Estou+cursando+análise+e+desenvolvimento+de+sistemas+na+PUC+Minas;Seja+Bem-vindo!)](https://git.io/typing-svg) 
 
-**`Desenvolvedor Back-End`**
+# Gustavo Viana de Souza
 
-Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado contínuo e criação de soluções digitais impactantes. Possuo experiência prática em desenvolvimento web e mobile, colaboração em equipe e liderança acadêmica. Comunicativo, adaptável e sempre disposto a compartilhar conhecimento, atuo como mentor para colegas em programação e desenvolvimento de projetos. Busco sempre inovação, eficiência e usabilidade em meus trabalhos e projetos pessoais.
+**Software Engineer | JavaScript & TypeScript | Backend development and API integrations**
 
----
+I'm a Software Engineer I at EloGroup, working as a Forward Deployed Engineer (FDE). I develop JavaScript solutions on the SYDLE ONE platform and work with clients to turn business requirements into software features and integrations.
 
-## Habilidades
+My technical focus is backend development with JavaScript, TypeScript, Node.js, SQL and PostgreSQL. My background includes public-sector projects, financial and healthcare business rules, API integrations and remote collaboration with a Canadian startup.
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+## Professional experience
 
+- Implement business rules and automations in JavaScript on the SYDLE ONE platform, using classes, forms and BPM workflows.
+- Work with clients on requirements discovery, refinement, feasibility analysis and technical task definition.
+- Contribute to government API integrations.
+- Contributed to bulk data migration from legacy databases with artificial intelligence (AI) assistance.
+- Recognized for exemplary professional conduct and contributions across multiple areas.
 
-<br/>
-<br/>
+## Technologies
 
-## Contato
+- **Languages:** JavaScript, TypeScript and SQL.
+- **Backend and data:** Node.js, Express, REST APIs, PostgreSQL, Drizzle ORM, Prisma ORM and Elasticsearch.
+- **Application development:** Next.js and Zod.
+- **Tools:** Docker, Git and GitHub.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/guvdsz")]("www.linkedin.com/in/guvdsz")
-[![Gmail Badge](https://img.shields.io/badge/-gustavovianadesouzacontatos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"gustavovianadesouzacontatos@gmail.com")]("gustavovianadesouzacontatos@gmail.com")
-[![GitHub](https://img.shields.io/github/followers/guvdsz?label=follow&style=social)]("https://github.com/guvdsz")
-<br/>
-<br/>
+## Education and communication
+
+- Systems Analysis and Development at PUC Minas — expected completion in December 2026.
+- English B2, with experience communicating with a Product Owner and stakeholders in an international project.
+- Based in Teixeira de Freitas, Bahia, Brazil.
+
+## Contact
+
+Interested in backend development, API integrations and software engineering opportunities.
+
+- [LinkedIn](https://www.linkedin.com/in/guvdsz/)
+- [Email](mailto:gustavovianasouzacontatos@gmail.com)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
 
