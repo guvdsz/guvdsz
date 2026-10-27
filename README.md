@@ -2,35 +2,43 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+i'm+Gustavo!)](https://git.io/typing-svg) 
 
-**Software Engineer | JavaScript & TypeScript | Backend development and API integrations**
+**Software Engineer | JavaScript & TypeScript | Backend APIs and integrations**
 
-I'm a Software Engineer, working as a Forward Deployed Engineer (FDE). I develop JavaScript solutions and work with clients to turn business requirements into software features and integrations.
+I'm a Software Engineer focused on backend development with JavaScript, TypeScript, Node.js, Express and PostgreSQL. My engineering practices cover business logic, API contracts, data consistency, automated testing, security and maintainability.
 
-My technical focus is backend development with JavaScript, TypeScript, Node.js, SQL and PostgreSQL. My background includes public-sector projects, financial and healthcare business rules, API integrations and remote collaboration with a Canadian startup.
+## Engineering practices
 
-## Professional experience
+- **Backend:** HTTP, REST APIs, OpenAPI, asynchronous programming, validation with Zod and consistent error handling.
+- **Data:** SQL, relational modeling, constraints, migrations, indexes, transactions, concurrency and idempotency.
+- **Quality and security:** Vitest, unit, integration and end-to-end (E2E) testing, session authentication and role-based and resource-level authorization.
+- **Delivery:** Linux, Docker, Docker Compose, GitHub Actions, CI/CD and deployment.
+- **Maintenance:** structured logging with Pino, request IDs, basic metrics, debugging, query analysis, backups and recovery.
+- **Design and collaboration:** modular monoliths, separation of concerns, testability, Git, code review and reading existing code.
 
-- Implement business rules and automations in JavaScript using classes, forms and BPM workflows.
-- Work with clients on requirements discovery, refinement, feasibility analysis and technical task definition.
-- Contribute to government API integrations.
-- Contributed to bulk data migration from legacy databases with artificial intelligence (AI) assistance.
-- Recognized for exemplary professional conduct and contributions across multiple areas.
+## Technical foundations
+
+Data structures, Big O, basic algorithms, system design, caching, queues, scalability, SLOs.
+
+## Professional background
+
+My professional experience includes working as a Forward Deployed Engineer at EloGroup, developing JavaScript solutions helping clients translate business needs into technical tasks.
+
+- Business rules and automations in classes, forms and BPM workflows.
+- Requirements discovery and refinement, feasibility analysis and API integrations.
+- Government APIs, Elasticsearch and business rules for finance, healthcare and service delivery.
+- Bulk data migration from legacy databases with artificial intelligence assistance.
+- Recognition for exemplary professional conduct and contributions across multiple areas.
 
 ## Technologies
 
-- **Languages:** JavaScript, TypeScript and SQL.
-- **Backend and data:** Node.js, Express, REST APIs, PostgreSQL, Drizzle ORM, Prisma ORM and Elasticsearch.
-- **Application development:** Next.js and Zod.
-- **Tools:** Docker, Git and GitHub.
+JavaScript, TypeScript, SQL, Node.js, Express, PostgreSQL, Drizzle ORM, Prisma ORM, Elasticsearch, Zod, Pino, Vitest, Docker, Docker Compose, GitHub Actions, Git, Next.js, HTML and CSS.
 
 ## Education and communication
 
-- Systems Analysis and Development at PUC Minas with expected completion in December 2026.
-- English B2, with experience communicating with a Product Owner and stakeholders in an international project.
+- Academic background in Systems Analysis and Development at PUC Minas.
+- English B2, with professional communication experience.
 
 ## Contact
-
-Interested in backend development, API integrations and software engineering opportunities.
 
 - Linkedln: https://www.linkedin.com/in/guvdsz
 - E-mail: gustavovianasouzacontatos@gmail.com
