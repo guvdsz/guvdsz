@@ -6,7 +6,7 @@
 
 **Software Engineer | JavaScript & TypeScript | Backend development and API integrations**
 
-I'm a Software Engineer I at EloGroup, working as a Forward Deployed Engineer (FDE). I develop JavaScript solutions on the SYDLE ONE platform and work with clients to turn business requirements into software features and integrations.
+I'm a Software Engineer I at EloGroup, working as a Forward Deployed Engineer (FDE). I develop JavaScript solutions and work with clients to turn business requirements into software features and integrations.
 
 My technical focus is backend development with JavaScript, TypeScript, Node.js, SQL and PostgreSQL. My background includes public-sector projects, financial and healthcare business rules, API integrations and remote collaboration with a Canadian startup.
 
@@ -27,9 +27,8 @@ My technical focus is backend development with JavaScript, TypeScript, Node.js, 
 
 ## Education and communication
 
-- Systems Analysis and Development at PUC Minas — expected completion in December 2026.
+- Systems Analysis and Development at PUC Minas with expected completion in December 2026.
 - English B2, with experience communicating with a Product Owner and stakeholders in an international project.
-- Based in Teixeira de Freitas, Bahia, Brazil.
 
 ## Contact
 
