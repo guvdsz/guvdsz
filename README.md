@@ -10,7 +10,7 @@ My technical focus is backend development with JavaScript, TypeScript, Node.js, 
 
 ## Professional experience
 
-- Implement business rules and automations in JavaScript on the SYDLE ONE platform, using classes, forms and BPM workflows.
+- Implement business rules and automations in JavaScript using classes, forms and BPM workflows.
 - Work with clients on requirements discovery, refinement, feasibility analysis and technical task definition.
 - Contribute to government API integrations.
 - Contributed to bulk data migration from legacy databases with artificial intelligence (AI) assistance.
