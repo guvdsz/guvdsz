@@ -2,17 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+i'm+Gustavo!)](https://git.io/typing-svg) 
 
-**Software Engineer | JavaScript & TypeScript | Backend APIs and integrations**
+**Software Engineer | JavaScript & TypeScript | Full-Stack APIs and integrations**
 
-I'm a Software Engineer focused on backend development with JavaScript, TypeScript, Node.js, Express and PostgreSQL. My engineering practices cover business logic, API contracts, data consistency, automated testing, security and maintainability.
+I'm a Software Engineer focused on full-stack development with JavaScript, TypeScript, Node.js, Express and PostgreSQL. My engineering practices cover business logic, API contracts, data consistency, automated testing, security and maintainability.
 
 ## Engineering practices
 
 - **Backend:** HTTP, REST APIs, OpenAPI, asynchronous programming, validation with Zod and consistent error handling.
+- **Frontend:** HTML, JavaScript, TypeScript, CSS, TailwindCSS, Responsive Layouts
 - **Data:** SQL, relational modeling, constraints, migrations, indexes, transactions, concurrency and idempotency.
 - **Quality and security:** Vitest, unit, integration and end-to-end (E2E) testing, session authentication and role-based and resource-level authorization.
 - **Delivery:** Linux, Docker, Docker Compose, GitHub Actions, CI/CD and deployment.
-- **Maintenance:** structured logging with Pino, request IDs, basic metrics, debugging, query analysis, backups and recovery.
+- **Maintenance:** Pino, Pino HTTP.
 - **Design and collaboration:** modular monoliths, separation of concerns, testability, Git, code review and reading existing code.
 
 ## Technical foundations
